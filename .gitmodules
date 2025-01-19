@@ -4,3 +4,6 @@
 [submodule "ts-assignment"]
 	path = ts-assignment
 	url = git@github.com:rishavmehra/ts-assignment.git
+[submodule "solana-starter"]
+	path = solana-starter
+	url = git@github.com:rishavmehra/solana-starter.git
