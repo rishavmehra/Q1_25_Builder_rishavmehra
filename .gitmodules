@@ -7,3 +7,6 @@
 [submodule "solana-starter"]
 	path = solana-starter
 	url = git@github.com:rishavmehra/solana-starter.git
+[submodule "escrow-program"]
+	path = escrow-program
+	url = git@github.com:rishavmehra/escrow-program.git
