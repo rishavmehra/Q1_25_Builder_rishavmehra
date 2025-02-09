@@ -10,3 +10,6 @@
 [submodule "escrow-program"]
 	path = escrow-program
 	url = git@github.com:rishavmehra/escrow-program.git
+[submodule "lending"]
+	path = lending
+	url = git@github.com:rishavmehra/lending.git
