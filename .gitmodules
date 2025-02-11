@@ -16,3 +16,21 @@
 [submodule "solana-trading"]
 	path = solana-trading
 	url = git@github.com:rishavmehra/solana-trading.git
+[submodule "meme-trade"]
+	path = meme-trade
+	url = git@github.com:rishavmehra/meme-trade.git
+[submodule "token-vesting"]
+	path = token-vesting
+	url = git@github.com:rishavmehra/token-vesting.git
+[submodule "dave-solana"]
+	path = dave-solana
+	url = git@github.com:rishavmehra/dave-solana.git
+[submodule "voting-blink"]
+	path = voting-blink
+	url = git@github.com:rishavmehra/voting-blink.git
+[submodule "blockchain"]
+	path = blockchain
+	url = git@github.com:rishavmehra/blockchain.git
+[submodule "amm"]
+	path = amm
+	url = git@github.com:rishavmehra/amm.git
