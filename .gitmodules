@@ -13,3 +13,6 @@
 [submodule "lending"]
 	path = lending
 	url = git@github.com:rishavmehra/lending.git
+[submodule "solana-trading"]
+	path = solana-trading
+	url = git@github.com:rishavmehra/solana-trading.git
