@@ -1,15 +1,17 @@
 # Solana Program
 
 **Typescript**
-[X] Airdrop\
-[X] Transfer\
-[X] NFT Mint(metadata)\
-[X] Token Mint
+- [x] Airdrop
+- [x] Transfer
+- [x] NFT Mint(metadata)
+- [x] Token Mint
 
 **Rust(Anchor)**
+- [x] Vault Program
+- [x] Escrow Program
+- [x] Lending Program
+- [x] AMM Program
+- [x] Marketplace Program
 
-[X] Vault Program\
-[X] Escrow Program\
-[X] Lending Program\
-[X] AMM Program\
-[X] Marketplace Program
+**SOLANA BOTS**
+- [x] Solana Trading bot
